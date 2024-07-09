@@ -2,7 +2,7 @@
 
 # Hvem er vi?
 
-Her finner du alle open source prosjekter som appkom jobber med. Her  jobber vi med å utvikle digitale tjenester for linjeforeningen Online. Dette er alt fra mobile (app)likasjoner, web (app)likasjoner og info(app)skjermer. 
+Her finner du alle open source prosjekter som appkom jobber med. Her  jobber vi med å utvikle ulike digitale tjenester for linjeforeningen Online. Dette er alt fra mobile (app)likasjoner, web (app)likasjoner og info(app)skjermer. 
 
 
 # Ønsker du å bidra til våre tjenester?
