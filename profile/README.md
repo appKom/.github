@@ -1,4 +1,4 @@
-[## Hei 👋
+## Hei 👋
 
 # Hvem er vi?
 
