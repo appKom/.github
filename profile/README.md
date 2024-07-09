@@ -1,8 +1,7 @@
 ## Hei 👋
 
 # Hvem er vi?
-
-Her finner du alle open source prosjekter som appkom jobber med. Her  jobber vi med å utvikle ulike digitale tjenester for linjeforeningen Online. Dette er alt fra mobile (app)likasjoner, web (app)likasjoner og info (app)skjermer. 
+Applikasjonskomiteen er en komite underlagt linjeforeningen Online. Her jobber vi med å utvikle ulike digitale tjenester for Online. Dette er alt fra mobile (app)likasjoner, web (app)likasjoner og info (app)skjermer. Her finner du alle open source prosjekter som vi jobber med. 
 
 
 # Ønsker du å bidra til våre tjenester?
